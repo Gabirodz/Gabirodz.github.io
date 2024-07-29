@@ -16,7 +16,7 @@ timezone:
 
 title: Axel Rodriguez # the main title
 
-tagline: Mathematics # it will display as the sub-title
+tagline: axel.rodriguez@cimat.mx # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My personal website
@@ -79,7 +79,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: auto
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
