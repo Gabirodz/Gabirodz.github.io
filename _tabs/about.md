@@ -49,7 +49,12 @@ I've referred to two small projects I made for my CS class and my Numerical Meth
 I have used extensively and feel comfortable utilizing  **Linux-based operating systems**.
 
 ### Mathematics
-My education is in mathematics. I can understand mathematical proofs and prove elementary results on my own.
+
+My education is in mathematics. 
+
+* I can understand and propose solutions to mathematical problems.
+
+* I can understand mathematical proofs and prove elementary results on my own.
 
 While I lean more towards pure mathematics, I feel confident in my ability to understand and work with more applied problems.
 
@@ -74,4 +79,9 @@ Relevant classes I've completed succesfully along with the main bibliography use
 
 * Fluent conversational English.
 * Good communication and writing.
-*  Problem solving.
+* Problem solving.
+* Fast learner.
+* Accostumed with technology and reading documentation to learn new technologies.
+### Curriculum Vitae
+
+I have uploaded a cv, to be found [here]({% post_url 2024-07-28-cv %})
