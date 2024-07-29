@@ -82,6 +82,7 @@ Relevant classes I've completed succesfully along with the main bibliography use
 * Problem solving.
 * Fast learner.
 * Accostumed with technology and reading documentation to learn new technologies.
+
 ### Curriculum Vitae
 
 I have uploaded a cv, to be found [here]({% post_url 2024-07-28-cv %})
