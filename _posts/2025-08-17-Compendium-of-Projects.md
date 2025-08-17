@@ -3,8 +3,6 @@ layout: post
 title:  "Compendium of Projects"
 ---
 
-#Compendium of Projects
-
 In this post I include many (not all!) of the projects I worked on during my undergrad at the University of Guanajuato. Be aware that citation
 and referencing may be lackluster especially in earlier projects, so these documents should only be taken as a reference of the curriculum I studied alongside a guide to my personal interests,
 rather than actual pieces of academic value.
