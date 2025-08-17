@@ -13,7 +13,7 @@ This is my graduation project, an Introduction to Quantum Mechanics, and the Qua
 very lackluster to try to make a proper thesis at the level and covering the topics I wanted it to. I believe I will be able to produce
 a more relevant, this time original work for my Master's degree with a much strengthened Physics knowledge.
 
-[An Introduction to Quantum Mechanics and the Quantum Hall Efect](/assets/CV_Axel_Gabriel_Rodriguez_Zarate.pdf)
+[An Introduction to Quantum Mechanics and the Quantum Hall Efect](/assets/introduccion_mec_cuantica-corregido.pdf)
 
 ## My final project for Differential Topology.
 
