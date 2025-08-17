@@ -20,14 +20,8 @@ Secondary interests and hobbies of mine include chess, videogames, technology, o
 
 ## Academic interests
 
-My education in mathematics is general and basic at the moment, as made precise in the **Skills** section. 
-
-I have not specialized nor have working knowledge in any of the topics mentioned ahead, yet.
-
 My main academic interests for the future currently are:
-* Functional analysis and PDEs
-* Differential geometry
-* Relativity theory (and to a less extent other topics in mathematical physics)
+* Mathematical Physics (Elementary Particle Physics, Field theory, Cosmology, Differential Geometry applications)
 
 ## Skills
 ### Computer programming
