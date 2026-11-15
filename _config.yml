@@ -137,6 +137,7 @@ pwa:
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+      - "/learnmath" # the LearnMath web app, a separate site in this folder
 
 paginate: 10
 
