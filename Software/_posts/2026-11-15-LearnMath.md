@@ -10,7 +10,7 @@ LearnMath is an app I am building for studying graduate mathematics. You describ
 
 It runs in the browser, on a laptop or desktop computer (Chrome or Edge work best).
 
-[Open LearnMath](/learnmath/)
+[Open LearnMath](https://quiet-king-5180.gabirodz03.workers.dev/)
 
 Some things to know before using it:
 
