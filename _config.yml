@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Axel Gabriel Rodriguez Zarate # the main title
+title: Axel Rodriguez # the main title
 
 tagline: axel.rodriguez@cimat.mx # it will display as the sub-title
 
@@ -31,7 +31,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Axel Gabriel Rodriguez Zarate
+  name: Axel Rodriguez
   email: axel.rodriguez@cimat.mx # change to your email address
   links:
     - https://github.com/gabirodz # change to your github homepage

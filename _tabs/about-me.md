@@ -7,7 +7,7 @@ order: 1
 # About me
 
 ## Personal info
-My full name is **Axel Gabriel Rodriguez Zarate**. I was born in Mexico City, in the year 2003.
+My name is **Axel Rodriguez**. I was born in Mexico City, in the year 2003.
 
 I moved from Mexico City to Guanajuato to study for my undergraduate degree in the mathematics department of the University of Guanajuato.
 
